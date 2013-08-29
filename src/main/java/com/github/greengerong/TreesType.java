@@ -21,4 +21,8 @@ public class TreesType {
         return this.tree;
     }
 
+    public int getTreeCount() {
+        return getTree().size();
+    }
+
 }
