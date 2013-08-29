@@ -1,0 +1,30 @@
+<trees>
+    <tree>
+        <id>1</id>
+        <name>tree1</name>
+        <selected>true</selected>
+        <tree>
+            <id>1-1</id>
+            <name>tree1_1</name>
+            <selected>true</selected>
+            <tree>
+                <id>1-1-1</id>
+                <name>tree1_1_1</name>
+            </tree>
+        </tree>
+    </tree>
+    <tree>
+        <id>2</id>
+        <name>tree2</name>
+        <selected>true</selected>
+        <tree>
+            <id>2-1</id>
+            <name>tree2_2</name>
+            <selected>true</selected>
+            <tree>
+                <id>2-1-1</id>
+                <name>tree2_2_1</name>
+            </tree>
+        </tree>
+    </tree>
+</trees>
